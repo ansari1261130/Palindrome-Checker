@@ -1,0 +1,14 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.2.11"
+  }
+}
